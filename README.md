@@ -14,8 +14,8 @@ If you use this code, please cite:
 
 ```bibtex
 @article{beatage2026,
-  title = {AI-Derived Beat-age and Its Variability as Digital Biomarkers for Cardiovascular Risk Stratification},
-  author = {Beat-age authors},
+  title = {Beat-Level Electrocardiographic Biological Age and Its Variability as Digital Biomarkers for Cardiovascular Risk Stratification},
+  author = {Zirui Jiang, Guangkun Nie, Qinghao Zhao, and Shenda Hong},
   year = {2026}
 }
 ```
