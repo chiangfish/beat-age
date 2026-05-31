@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Sensitive or large study data
+datasets/raw_data/
+datasets/processed_beats/
+datasets/processed_beats_clinical/
+datasets/processed_beats_mimic/
+*.npz
+*.pt
+*.pth
+*.pkl
+*.h5
+*.csv.gz
+
+# Model weights are released separately on Hugging Face.
+ckpts/*
+!ckpts/README.md
+
+# Generated outputs
+results/*
+!results/README.md
+Rplots.pdf
+swanlog/

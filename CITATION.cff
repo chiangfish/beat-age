@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the Beat-age manuscript."
+title: "AI-Derived Beat-age and Its Variability as Digital Biomarkers for Cardiovascular Risk Stratification"
+authors:
+  - family-names: "First Author"
+    given-names: "First"
+  - family-names: "Second Author"
+    given-names: "Second"
+date-released: 2026-05-31
+version: "0.1.0"

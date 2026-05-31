@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+torch
+torchmetrics
+lifelines
+statsmodels
+wfdb
+swanlab

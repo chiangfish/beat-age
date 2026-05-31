@@ -1,0 +1,24 @@
+name: beat-age
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pytorch
+  - lifelines
+  - statsmodels
+  - pip
+  - r-base=4.3
+  - r-survival
+  - pip:
+      - torchmetrics
+      - wfdb
+      - swanlab
