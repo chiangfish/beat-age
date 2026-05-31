@@ -8,7 +8,7 @@ For a detailed explanation, please refer to the paper:
 
 > AI-Derived Beat-age and Its Variability as Digital Biomarkers for Cardiovascular Risk Stratification
 
-Model weights are released separately on .
+Model weights are released on https://huggingface.co/chiangfish/beat-age.
 
 If you use this code, please cite:
 
